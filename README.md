@@ -12,3 +12,6 @@ This is the starting point of a new life beginning.
 
 A game changing journey !
 
+I dont know already where to start, I'm now working on a new blog regarding Tech and Cyber security.
+
+Let's do this.
