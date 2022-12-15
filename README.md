@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning on TryHackMe.com and A Cloud Guru. I'm following differents path on both plaforms
 - 🕸️ I'm also working on my blog at bear-paw.ch 
 
+
+Doing the Advent of Cyber 2022 on tryhackme.com
